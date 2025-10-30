@@ -35,6 +35,7 @@ while True:
 ```
 
 ## OUPUT
+<img width="1575" height="317" alt="image" src="https://github.com/user-attachments/assets/b1bb7058-d477-45bf-a6ce-d95949d70257" />
 
 ## RESULT
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
